@@ -3,3 +3,5 @@ Esta es la historia de Rubén Calderón García
 Rubén Calderón tiene 37 años y nació en Colombia
 
 Hoy hablaremos de su historia.
+
+Ahora me encuentro estudiando en Platzi para aprender sobre programación backend.
